@@ -104,6 +104,4 @@
 
 ### 历史 Star 数
 ![](https://starchart.cc/BlueskyClouds/My-Actions.svg)
-### 访问量
 
-![](http://profile-counter.glitch.me/BlueSkyClouds/count.svg)
